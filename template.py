@@ -25,7 +25,7 @@ list_of_files = [
     "main.py",
     "Dockerfile"
     "app.py",
-    "requirements.text",
+    "requirements.txt",
     "setup.py",
     "research/trails.ipynb",
     "templates/index.html",
