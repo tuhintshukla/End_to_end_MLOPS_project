@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/naveen/repos/interviewkickstart/End_to_end_MLOPS_project/mlruns/0/e5379f1a7c4345c0b2d8ff011bbabec4/artifacts
+end_time: 1710643654916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5379f1a7c4345c0b2d8ff011bbabec4
+run_name: beautiful-bass-241
+run_uuid: e5379f1a7c4345c0b2d8ff011bbabec4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710643653392
+status: 3
+tags: []
+user_id: naveen
